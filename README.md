@@ -33,12 +33,5 @@
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 
-<br>
-
-## 🖱&nbsp;Languages
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsealove&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br/>
+<br/>
